@@ -1,0 +1,15 @@
+#logo {
+    width: 20%;
+
+}
+
+#homepicture {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 0;
+}
+
+nav {
+    background-color: #E6E8EA;
+}
